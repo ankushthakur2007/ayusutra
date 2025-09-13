@@ -10,7 +10,7 @@
 .env*
 
 #Ignore gemini
-.gemini/*
+.gemini/
 
 #Ignore specify
 .specify/*

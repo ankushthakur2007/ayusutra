@@ -1,0 +1,19 @@
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
+
+#Ignore personal access tokens
+.gemini/commands/settings.json
+
+#Ignore local env files
+.env*
+
+#Ignore gemini
+.gemini/*
+
+#Ignore specify
+.specify/*
+
+#ignore codacy
+.codacy/*
